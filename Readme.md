@@ -122,182 +122,52 @@ My current goal is to build AI systems that don't simply generate responses, but
 
 # 🧩 My AI Engineering Interests
 
-```text<h2 align="center">🧠 My AI Engineering Architecture</h2>
-
-<p align="center">
-  <i>
-    Building AI systems that can reason, collaborate, use tools,
-    automate workflows, and take action.
-  </i>
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="30%">
-
-## 🤖
-
-### AI AGENTS
-
-`Reason`
-
-`Plan`
-
-`Act`
-
-</td>
-
-<td align="center" width="5%">
-
-**→**
-
-</td>
-
-<td align="center" width="30%">
-
-## 🧠
-
-### MULTI-AGENT
-
-`Collaborate`
-
-`Delegate`
-
-`Coordinate`
-
-</td>
-
-<td align="center" width="5%">
-
-**→**
-
-</td>
-
-<td align="center" width="30%">
-
-## ✨
-
-### GENERATIVE AI
-
-`Understand`
-
-`Generate`
-
-`Create`
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-
-**↓**
-
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-
-## 🔗 LLM ORCHESTRATION
-
-**The intelligence layer**
-
-`LangGraph` · `LangChain` · `CrewAI`
-
-**Coordinate → Reason → Route → Execute**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
-**↓**
-
-</p>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### ⚙️ AUTOMATION
-
-Workflows  
-Tool Calling  
-APIs  
-Triggers
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔧 TOOLS
-
-Browsers  
-Databases  
-External APIs  
-Services
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧩 MEMORY
-
-RAG  
-Vector Stores  
-Context  
-Knowledge
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-
-**↓**
-
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-
-## 🚀 AI APPLICATIONS
-
-`AI Web Apps` · `AI APIs` · `AI Developer Tools` · `AI Automation`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
-**↓**
-
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-
-## 🌐 PRODUCTION AI
-
-### Build → Deploy → Monitor → Improve
-
-`FastAPI` · `Next.js` · `PostgreSQL` · `Supabase` · `Docker`
-
-</td>
-</tr>
-</table>
+```text
+## 🧠 AI Engineering Architecture
+
+```mermaid
+flowchart TB
+
+    B["🤖 AI AGENTS"]
+    C["🧠 MULTI-AGENT SYSTEMS"]
+    D["✨ GENERATIVE AI"]
+
+    B --> E["🔗 LLM ORCHESTRATION"]
+    C --> E
+    D --> E
+
+    E --> F["⚙️ AI AUTOMATION"]
+    E --> G["🔧 TOOL USE"]
+    E --> H["🧩 MEMORY / RAG"]
+
+    F --> I["🚀 AI APPLICATIONS"]
+    G --> I
+    H --> I
+
+    I --> J["🌐 PRODUCTION AI"]
+
+    classDef agent fill:#0b1220,stroke:#3b82f6,stroke-width:2px,color:#fff
+    classDef multi fill:#0b1220,stroke:#a855f7,stroke-width:2px,color:#fff
+    classDef genai fill:#0b1220,stroke:#22c55e,stroke-width:2px,color:#fff
+    classDef orchestration fill:#0b1220,stroke:#06b6d4,stroke-width:3px,color:#fff
+    classDef automation fill:#0b1220,stroke:#f59e0b,stroke-width:2px,color:#fff
+    classDef tools fill:#0b1220,stroke:#ec4899,stroke-width:2px,color:#fff
+    classDef memory fill:#0b1220,stroke:#8b5cf6,stroke-width:2px,color:#fff
+    classDef app fill:#0b1220,stroke:#f43f5e,stroke-width:3px,color:#fff
+    classDef prod fill:#0b1220,stroke:#eab308,stroke-width:3px,color:#fff
+
+    class B agent
+    class C multi
+    class D genai
+    class E orchestration
+    class F automation
+    class G tools
+    class H memory
+    class I app
+    class J prod
 ```
+
+> **Intelligence → Orchestration → Action → Applications → Production**
 
 ---
 
