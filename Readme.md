@@ -1,318 +1,375 @@
-👋 Hi, I'm Lohith Reddy
+<div align="center">
 
-🤖 AI/ML & Agentic AI Developer | Multi-Agent Systems | AI Automation
+# 👋 Hi, I'm Lohith Reddy
 
-«Building intelligent systems that can reason, collaborate, automate workflows, and solve real-world problems.»
+### 🤖 AI/ML Developer • Agentic AI • Multi-Agent Systems • AI Automation
 
-I'm a B.Tech student passionate about Artificial Intelligence, Generative AI, Agentic AI, Multi-Agent Systems, and AI-powered application development.
+**Building intelligent systems that can reason, collaborate, automate workflows, and solve real-world problems.**
 
-I enjoy turning ideas into practical products by combining LLMs, AI agents, automation, APIs, full-stack development, and intelligent workflows.
+<br/>
 
----
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-🧠 What I Build
-
-┌─────────────────────────────────────────────────────────┐
-│                    INTELLIGENT SYSTEMS                  │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│   🤖 AI Agents              🧠 Multi-Agent Systems      │
-│                                                         │
-│   ✨ Generative AI          ⚙️ AI Automation             │
-│                                                         │
-│   🔗 LLM Applications       🔌 API Integrations         │
-│                                                         │
-│   🧪 AI Testing             🌐 Full-Stack AI Apps       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-
-My Core Areas
-
-- 🤖 Agentic AI & AI Agents
-- 🧠 Multi-Agent Systems
-- ✨ Generative AI & LLM Applications
-- ⚙️ AI Workflow Automation
-- 🔗 LLM Orchestration
-- 🧩 Prompt Engineering & RAG
-- 🧪 AI-Assisted Software Testing
-- 🌐 Full-Stack AI Applications
-- 🔌 API & System Integration
+</div>
 
 ---
 
-🛠️ Tech Stack
+## 🧠 About Me
 
-🤖 AI / Machine Learning
+I'm a **B.Tech student and AI/ML developer** focused on building practical applications with:
 
-"Generative AI" "LLMs" "Agentic AI" "AI Agents" "Multi-Agent Systems" "Machine Learning" "Neural Networks" "Prompt Engineering" "RAG"
+* 🤖 **Agentic AI & AI Agents**
+* 🧠 **Multi-Agent Systems**
+* ✨ **Generative AI & LLM Applications**
+* ⚙️ **AI Workflow Automation**
+* 🔗 **LLM Orchestration**
+* 🧩 **RAG & Prompt Engineering**
+* 🧪 **AI-powered Testing & QA Automation**
+* 🌐 **Full-Stack AI Applications**
 
-🧠 AI Frameworks & Orchestration
+I enjoy taking an idea from **concept → architecture → implementation → automation → deployment**.
 
-"LangGraph" "LangChain" "Relevance AI" "LangFlow" "CrewAI"
+My current goal is to build AI systems that don't simply generate responses, but can **reason about goals, use tools, collaborate with other agents, and take meaningful actions.**
 
-💻 Programming
-
-"Python" "JavaScript" "TypeScript" "HTML" "CSS"
-
-🌐 Frontend
-
-"React" "Next.js" "Tailwind CSS"
-
-⚙️ Backend
-
-"FastAPI" "Node.js" "REST APIs"
-
-🔄 Automation
-
-"n8n" "AI Automation" "Workflow Automation" "API Integration"
-
-🗄️ Databases & Backend Services
-
-"PostgreSQL" "Supabase" "Firebase"
-
-🧪 Testing & Quality Engineering
-
-"Playwright" "Pytest" "E2E Testing" "API Testing" "Functional Testing" "Regression Testing" "Exploratory Testing"
-
-🔧 Developer Tools
-
-"Git" "GitHub" "VS Code" "Hugging Face" "Streamlit"
+> **Traditional Software → AI-Assisted Software → AI Agents → Autonomous AI Systems**
 
 ---
 
-🚀 Featured Projects
+## 🚀 What I'm Building
 
-🤖 TestPilot AI
+<div align="center">
 
-AI-powered software testing and automation platform
+|     🤖 Agentic AI    | 🧠 Multi-Agent Systems |   ⚙️ AI Automation   |
+| :------------------: | :--------------------: | :------------------: |
+|       AI Agents      |   Agent Orchestration  |  Workflow Automation |
+|     Tool Calling     |   Specialized Agents   |   API Integrations   |
+| Planning & Reasoning |   Agent Collaboration  | Autonomous Workflows |
 
-A system designed to combine AI reasoning with automated browser testing to make software testing more intelligent and efficient.
+|   ✨ Generative AI  |    🧪 AI Testing   | 🌐 Full-Stack AI |
+| :----------------: | :----------------: | :--------------: |
+|  LLM Applications  | AI Test Generation |  React / Next.js |
+|     RAG Systems    | Browser Automation |      FastAPI     |
+| Prompt Engineering |     E2E Testing    |     Supabase     |
 
-Built around:
-
-- AI-driven test generation
-- Automated browser execution
-- Playwright
-- Python / FastAPI
-- LangGraph orchestration
-- Next.js
-- Supabase
-- LLM integration
-
-Focus: "Agentic AI" "QA Automation" "Playwright" "LangGraph" "AI Testing"
+</div>
 
 ---
 
-🧠 Multi-Agent AI Systems
+# ⭐ Featured Projects
 
-Exploring systems where multiple specialized AI agents collaborate to solve complex tasks instead of relying on a single model.
+## 🤖 TestPilot AI
 
-Examples include agents for:
+> **AI-powered software testing and automation platform**
 
-- Research
-- Summarization
-- Routing
-- Decision support
-- Customer support
-- Task execution
-- Information extraction
+An intelligent testing system combining **LLM reasoning, agent orchestration, and browser automation** to make software testing more autonomous.
 
-Focus: "Multi-Agent Systems" "Agent Orchestration" "LLMs" "AI Automation"
+### Built With
+
+`Python` `FastAPI` `LangGraph` `Playwright` `Next.js` `Supabase` `LLMs`
+
+### What it explores
+
+* 🧠 AI-driven test generation
+* 🤖 Agentic test execution
+* 🌐 Automated browser interaction
+* 🧪 E2E testing
+* 🔍 Intelligent test analysis
+* ⚙️ LLM orchestration
+
+**→ [View Project](YOUR_TESTPILOT_REPO_URL)**
 
 ---
 
-💬 AI-Driven Customer Support
+## 🧠 Multi-Agent AI Systems
 
-A multi-agent customer-support concept designed to intelligently process customer conversations and assist support teams.
+> **Exploring collaborative AI systems built from specialized agents**
 
-The system explores specialized agents for:
+Instead of relying on a single AI model, these systems experiment with multiple specialized agents working together.
 
+```text
+                USER GOAL
+                    │
+                    ▼
+            ┌───────────────┐
+            │   AI ROUTER   │
+            └───────┬───────┘
+                    │
+        ┌───────────┼───────────┐
+        ▼           ▼           ▼
+   🔎 Research   🧠 Reason   ⚙️ Execute
+      Agent        Agent        Agent
+        │           │           │
+        └───────────┼───────────┘
+                    ▼
+             FINAL RESPONSE
+```
+
+Exploring:
+
+`LangGraph` `LangChain` `CrewAI` `RAG` `LLMs` `Agent Orchestration`
+
+**→ [Explore Projects](YOUR_MULTI_AGENT_REPO_URL)**
+
+---
+
+## 💬 AI Customer Support System
+
+> **Multi-agent architecture for intelligent customer support**
+
+A conceptual AI support system where specialized agents collaborate to understand customer requests and recommend actions.
+
+```text
 Customer Query
-      ↓
-┌─────────────────────┐
-│   Support Router    │
-└─────────┬───────────┘
-          ↓
- ┌────────┼────────┐
- ↓        ↓        ↓
-Summary  Resolution  History
- Agent     Agent      Agent
- └────────┼──────────┘
-          ↓
+      │
+      ▼
+┌──────────────────┐
+│  Support Router  │
+└────────┬─────────┘
+         │
+   ┌─────┼─────┐
+   ▼     ▼     ▼
+Summary Resolution History
+ Agent     Agent     Agent
+   │        │        │
+   └─────┬──┴────────┘
+         ▼
    Recommended Action
-          ↓
-     Support Team
+```
 
-Focus: "Multi-Agent AI" "Customer Support" "LLM Applications" "Automation"
+**Focus:** `Multi-Agent AI` `LLMs` `Customer Support` `Automation`
 
----
-
-📝 AI Resume Builder
-
-An AI-powered application designed to help users create and improve resumes using intelligent content generation and structured resume workflows.
-
-Focus: "Generative AI" "LLMs" "Full-Stack Development" "AI Applications"
+**→ [View Project](YOUR_REPO_URL)**
 
 ---
 
-📚 Flashcard Learning Platform
+## 📝 AI Resume Builder
 
-A learning application exploring spaced repetition and intelligent study workflows to help learners retain information more effectively.
+AI-powered application for generating, improving, and structuring resumes using LLM-powered workflows.
 
-Focus: "EdTech" "Spaced Repetition" "Web Development" "AI"
+**Focus:** `Generative AI` `LLMs` `Full-Stack Development`
 
----
-
-🌫️ Air Quality Monitoring Platform
-
-A web-based interface for monitoring and visualizing air-quality information in an accessible dashboard.
-
-Focus: "Data Visualization" "Web Development" "Environmental Technology"
+**→ [View Project](YOUR_REPO_URL)**
 
 ---
 
-🧪 Synapse Console Testing
+## 📚 Intelligent Learning Platform
 
-Worked on functional and automated testing of a web-based administration platform.
+A learning platform exploring **spaced repetition, intelligent study workflows, and AI-assisted learning**.
 
-Areas explored included:
+**Focus:** `EdTech` `AI` `Web Development`
 
-- Authentication
-- Authorization
-- CRUD operations
-- Search and filtering
-- Publishing workflows
-- Delete operations
-- Pagination
-- Mobile responsiveness
-- UI behavior
-- Regression testing
-- E2E browser automation
-- Defect identification and retesting
-
-Focus: "QA Engineering" "Playwright" "E2E Testing" "API Testing" "Debugging"
+**→ [View Project](YOUR_REPO_URL)**
 
 ---
 
-🏆 Hackathons & AI Programs
+# 🛠️ Tech Stack
 
-I've participated in and explored multiple AI-focused programs, hackathons, and technical initiatives including:
+### 🤖 AI / Machine Learning
 
-- 🧠 Google Agentic AI Hackathon
-- 🤖 AI Hackday 2025
-- 🔗 Mastering Multi-Agent AI
-- 🚀 AI Summer Internship – IBM SkillsBuild
-- 🧩 IUCEE Multi-Agent AI Program
-- ☁️ Google Vertex AI
-- 🏗️ AI / Vibe Coding Hackathons
-- 🎙️ Gnani AI Internship Challenge
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic_AI-000000?style=flat-square"/>
+</p>
 
----
+### 🧠 AI Frameworks & Orchestration
 
-📜 Certifications & Learning
+<p>
+<img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Relevance_AI-6366F1?style=flat-square"/>
+</p>
 
-My learning journey has focused heavily on modern AI systems:
+### 💻 Programming
 
-- IBM SkillsBuild — AI / Generative AI
-- IBM — Prompt Engineering
-- IBM — RAG
-- IBM — AI Agent Architect
-- IUCEE — Mastering Multi-Agent AI
-- Google — Vertex AI
-- Google — Agentic AI
-- AI Hackday
-- Multiple AI/LLM and automation learning programs
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
----
+### 🌐 Frontend & Backend
 
-👨‍💼 Leadership
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
 
-🤖 Vice President — AI Club
+### ⚙️ Automation & Developer Tools
 
-Helping promote AI learning, projects, technical activities, and student collaboration around emerging AI technologies.
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
 
-⚙️ Technical Secretary
+### 🧪 Testing & Quality Engineering
 
-Involved in technical coordination, student activities, events, and technology-focused initiatives.
-
----
-
-🌱 Currently Exploring
-
-Agentic AI
-     ↓
-Multi-Agent Systems
-     ↓
-LLM Orchestration
-     ↓
-AI Automation
-     ↓
-Autonomous Workflows
-     ↓
-Production AI Applications
-
-Currently focusing on becoming stronger at:
-
-- Building production-ready AI agents
-- Designing multi-agent architectures
-- LLM orchestration
-- AI workflow automation
-- AI-powered developer tools
-- AI testing and autonomous QA
-- Full-stack AI product development
-- Building practical AI products
+<p>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square"/>
+<img src="https://img.shields.io/badge/E2E_Testing-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Testing-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/QA_Automation-333333?style=flat-square"/>
+</p>
 
 ---
 
-💡 My Development Philosophy
+# 🧩 My AI Engineering Interests
 
-«Don't just build AI that generates answers. Build AI that can understand a goal, reason about it, use tools, collaborate with other agents, and take meaningful action.»
-
-I’m particularly interested in the transition from:
-
-Traditional Software → AI-Assisted Software → AI Agents → Autonomous AI Systems
+```text
+                    ┌─────────────────────┐
+                    │      AI SYSTEMS     │
+                    └──────────┬──────────┘
+                               │
+          ┌────────────────────┼────────────────────┐
+          ▼                    ▼                    ▼
+    🤖 AI Agents        🧠 Multi-Agent        ✨ Generative AI
+          │                    │                    │
+          └────────────────────┼────────────────────┘
+                               ▼
+                       🔗 LLM Orchestration
+                               │
+                               ▼
+                       ⚙️ AI Automation
+                               │
+                               ▼
+                       🚀 AI Applications
+                               │
+                               ▼
+                     🌐 Production Systems
+```
 
 ---
 
-📊 Areas I Love Working In
+# 🌱 Currently Exploring
 
-Area| Interest
-🤖 Agentic AI| ⭐⭐⭐⭐⭐
-🧠 Multi-Agent Systems| ⭐⭐⭐⭐⭐
-✨ Generative AI| ⭐⭐⭐⭐⭐
-⚙️ AI Automation| ⭐⭐⭐⭐⭐
-🔗 LLM Applications| ⭐⭐⭐⭐⭐
-🧪 AI Testing| ⭐⭐⭐⭐
-🐍 Python| ⭐⭐⭐⭐
-🌐 Full-Stack Development| ⭐⭐⭐⭐
-🔌 API Integration| ⭐⭐⭐⭐
-🗄️ Backend & Databases| ⭐⭐⭐⭐
+* 🤖 Production-ready AI Agents
+* 🧠 Multi-Agent Architectures
+* 🔗 Advanced LLM Orchestration
+* ⚙️ Autonomous AI Workflows
+* 🧪 AI-powered Software Testing
+* 🌐 Full-Stack AI Products
+* 🧩 RAG & Tool-Using Agents
+* 🚀 Production AI Engineering
 
 ---
 
-🤝 Let's Connect
+# 🏆 Programs & Technical Initiatives
+
+* 🧠 Google Agentic AI Hackathon
+* 🤖 AI Hackday 2025
+* 🔗 Mastering Multi-Agent AI
+* 🚀 IBM SkillsBuild AI Summer Internship
+* 🧩 IUCEE Multi-Agent AI Program
+* ☁️ Google Vertex AI
+* 🏗️ AI / Vibe Coding Hackathons
+* 🎙️ Gnani AI Internship Challenge
+
+---
+
+# 👨‍💼 Leadership
+
+### ⚙️ Technical Secretary - KGRCET
+
+Supported Technical Clubs coordination, student initiatives, events, and technology-focused activities.
+
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 💡 My Engineering Philosophy
+
+> **Don't just build AI that generates answers.**
+>
+> **Build AI that understands a goal, reasons about it, uses tools, collaborates with other agents, and takes meaningful action.**
+
+I'm particularly interested in the transition from:
+
+**Traditional Software → AI-Assisted Software → AI Agents → Autonomous AI Systems**
+
+---
+
+# 🤝 Let's Build Something
 
 I'm interested in collaborating on:
 
-- 🤖 AI Agent projects
-- 🧠 Multi-Agent Systems
-- ✨ Generative AI applications
-- ⚙️ AI automation
-- 🧪 AI-powered testing
-- 🚀 AI startups & products
-- 💡 Hackathons
-- 🔬 AI research & experimentation
+🤖 AI Agents
+🧠 Multi-Agent Systems
+✨ Generative AI Applications
+⚙️ AI Automation
+🧪 AI-powered Testing
+🚀 AI Startups & Products
+💡 Hackathons
+🔬 AI Research & Experimentation
 
-If you're building something interesting with AI, let's connect and build it.
+<div align="center">
+
+### 💬 If you're building something interesting with AI, let's connect.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/lohith-reddy-/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lohith10e.vhs@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-⚡ Fun Fact
+<div align="center">
 
-I don't just want to use AI tools.
+### ⚡ Fun Fact
 
-I want to understand how to build systems that use AI as an intelligent worker. 🤖
+**I don't just want to use AI tools.**
 
----
+**I want to build systems where AI becomes an intelligent worker. 🤖**
 
-⭐ If you find my projects interesting, consider starring a repository and following my journey!
+<br/>
+
+⭐ **If you find my work interesting, consider starring a repository and following my journey.**
+
+</div>
