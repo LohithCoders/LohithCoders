@@ -122,27 +122,181 @@ My current goal is to build AI systems that don't simply generate responses, but
 
 # 🧩 My AI Engineering Interests
 
-```text
-                    ┌─────────────────────┐
-                    │      AI SYSTEMS     │
-                    └──────────┬──────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          ▼                    ▼                    ▼
-    🤖 AI Agents        🧠 Multi-Agent        ✨ Generative AI
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               ▼
-                       🔗 LLM Orchestration
-                               │
-                               ▼
-                       ⚙️ AI Automation
-                               │
-                               ▼
-                       🚀 AI Applications
-                               │
-                               ▼
-                     🌐 Production Systems
+```text<h2 align="center">🧠 My AI Engineering Architecture</h2>
+
+<p align="center">
+  <i>
+    Building AI systems that can reason, collaborate, use tools,
+    automate workflows, and take action.
+  </i>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="30%">
+
+## 🤖
+
+### AI AGENTS
+
+`Reason`
+
+`Plan`
+
+`Act`
+
+</td>
+
+<td align="center" width="5%">
+
+**→**
+
+</td>
+
+<td align="center" width="30%">
+
+## 🧠
+
+### MULTI-AGENT
+
+`Collaborate`
+
+`Delegate`
+
+`Coordinate`
+
+</td>
+
+<td align="center" width="5%">
+
+**→**
+
+</td>
+
+<td align="center" width="30%">
+
+## ✨
+
+### GENERATIVE AI
+
+`Understand`
+
+`Generate`
+
+`Create`
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+**↓**
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+## 🔗 LLM ORCHESTRATION
+
+**The intelligence layer**
+
+`LangGraph` · `LangChain` · `CrewAI`
+
+**Coordinate → Reason → Route → Execute**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+
+**↓**
+
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### ⚙️ AUTOMATION
+
+Workflows  
+Tool Calling  
+APIs  
+Triggers
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔧 TOOLS
+
+Browsers  
+Databases  
+External APIs  
+Services
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧩 MEMORY
+
+RAG  
+Vector Stores  
+Context  
+Knowledge
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+**↓**
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+## 🚀 AI APPLICATIONS
+
+`AI Web Apps` · `AI APIs` · `AI Developer Tools` · `AI Automation`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+
+**↓**
+
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+## 🌐 PRODUCTION AI
+
+### Build → Deploy → Monitor → Improve
+
+`FastAPI` · `Next.js` · `PostgreSQL` · `Supabase` · `Docker`
+
+</td>
+</tr>
+</table>
 ```
 
 ---
