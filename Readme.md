@@ -116,9 +116,9 @@ My current goal is to build AI systems that don't simply generate responses, but
 <p>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square"/>
-<img src="https://img.shields.io/badge/E2E_Testing-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/API_Testing-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/QA_Automation-333333?style=flat-square"/>
+<img src="https://img.shields.io/badge/E2E_Testing-00C853?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Testing-1565C0?style=flat-square"/>
+<img src="https://img.shields.io/badge/QA_Automation-6C2BD9?style=flat-square"/>
 </p>
 
 ---
@@ -165,14 +165,12 @@ My current goal is to build AI systems that don't simply generate responses, but
 
 # 🏆 Programs & Technical Initiatives
 
-* 🧠 Google Agentic AI Hackathon
 * 🤖 AI Hackday 2025
 * 🔗 Mastering Multi-Agent AI
 * 🚀 IBM SkillsBuild AI Summer Internship
 * 🧩 IUCEE Multi-Agent AI Program
 * ☁️ Google Vertex AI
 * 🏗️ AI / Vibe Coding Hackathons
-* 🎙️ Gnani AI Internship Challenge
 
 ---
 
@@ -189,9 +187,9 @@ Supported Technical Clubs coordination, student initiatives, events, and technol
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LohithCoders&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LohithCoders&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -199,7 +197,7 @@ Supported Technical Clubs coordination, student initiatives, events, and technol
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohithCoders&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
