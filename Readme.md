@@ -50,126 +50,14 @@ My current goal is to build AI systems that don't simply generate responses, but
 
 <div align="center">
 
-|     🤖 Agentic AI    | 🧠 Multi-Agent Systems |   ⚙️ AI Automation   |
-| :------------------: | :--------------------: | :------------------: |
-|       AI Agents      |   Agent Orchestration  |  Workflow Automation |
-|     Tool Calling     |   Specialized Agents   |   API Integrations   |
-| Planning & Reasoning |   Agent Collaboration  | Autonomous Workflows |
+|     🤖 Agentic AI    | 🧠 Multi-Agent Systems |   🧪 AI Testing     |
+| :------------------:  | :--------------------: | :------------------: |
+|       AI Agents       |   Agent Orchestration  |  AI Test Generation  |
+|      Planning         |   Specialized Agents   |   E2E Testing        |
+|      Reasoning        |   Agent Collaboration  | Autonomous Workflows |
 
-|   ✨ Generative AI  |    🧪 AI Testing   | 🌐 Full-Stack AI |
-| :----------------: | :----------------: | :--------------: |
-|  LLM Applications  | AI Test Generation |  React / Next.js |
-|     RAG Systems    | Browser Automation |      FastAPI     |
-| Prompt Engineering |     E2E Testing    |     Supabase     |
 
 </div>
-
----
-
-# ⭐ Featured Projects
-
-## 🤖 TestPilot AI
-
-> **AI-powered software testing and automation platform**
-
-An intelligent testing system combining **LLM reasoning, agent orchestration, and browser automation** to make software testing more autonomous.
-
-### Built With
-
-`Python` `FastAPI` `LangGraph` `Playwright` `Next.js` `Supabase` `LLMs`
-
-### What it explores
-
-* 🧠 AI-driven test generation
-* 🤖 Agentic test execution
-* 🌐 Automated browser interaction
-* 🧪 E2E testing
-* 🔍 Intelligent test analysis
-* ⚙️ LLM orchestration
-
-**→ [View Project](YOUR_TESTPILOT_REPO_URL)**
-
----
-
-## 🧠 Multi-Agent AI Systems
-
-> **Exploring collaborative AI systems built from specialized agents**
-
-Instead of relying on a single AI model, these systems experiment with multiple specialized agents working together.
-
-```text
-                USER GOAL
-                    │
-                    ▼
-            ┌───────────────┐
-            │   AI ROUTER   │
-            └───────┬───────┘
-                    │
-        ┌───────────┼───────────┐
-        ▼           ▼           ▼
-   🔎 Research   🧠 Reason   ⚙️ Execute
-      Agent        Agent        Agent
-        │           │           │
-        └───────────┼───────────┘
-                    ▼
-             FINAL RESPONSE
-```
-
-Exploring:
-
-`LangGraph` `LangChain` `CrewAI` `RAG` `LLMs` `Agent Orchestration`
-
-**→ [Explore Projects](YOUR_MULTI_AGENT_REPO_URL)**
-
----
-
-## 💬 AI Customer Support System
-
-> **Multi-agent architecture for intelligent customer support**
-
-A conceptual AI support system where specialized agents collaborate to understand customer requests and recommend actions.
-
-```text
-Customer Query
-      │
-      ▼
-┌──────────────────┐
-│  Support Router  │
-└────────┬─────────┘
-         │
-   ┌─────┼─────┐
-   ▼     ▼     ▼
-Summary Resolution History
- Agent     Agent     Agent
-   │        │        │
-   └─────┬──┴────────┘
-         ▼
-   Recommended Action
-```
-
-**Focus:** `Multi-Agent AI` `LLMs` `Customer Support` `Automation`
-
-**→ [View Project](YOUR_REPO_URL)**
-
----
-
-## 📝 AI Resume Builder
-
-AI-powered application for generating, improving, and structuring resumes using LLM-powered workflows.
-
-**Focus:** `Generative AI` `LLMs` `Full-Stack Development`
-
-**→ [View Project](YOUR_REPO_URL)**
-
----
-
-## 📚 Intelligent Learning Platform
-
-A learning platform exploring **spaced repetition, intelligent study workflows, and AI-assisted learning**.
-
-**Focus:** `EdTech` `AI` `Web Development`
-
-**→ [View Project](YOUR_REPO_URL)**
 
 ---
 
