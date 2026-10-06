@@ -216,14 +216,14 @@ I'm particularly interested in the transition from:
 
 I'm interested in collaborating on:
 
-🤖 AI Agents
-🧠 Multi-Agent Systems
-✨ Generative AI Applications
-⚙️ AI Automation
-🧪 AI-powered Testing
-🚀 AI Startups & Products
-💡 Hackathons
-🔬 AI Research & Experimentation
+- 🤖 AI Agents
+- 🧠 Multi-Agent Systems
+- ✨ Generative AI Applications
+- ⚙️ AI Automation
+- 🧪 AI-powered Testing
+- 🚀 AI Startups & Products
+- 💡 Hackathons
+- 🔬 AI Research & Experimentation
 
 <div align="center">
 
