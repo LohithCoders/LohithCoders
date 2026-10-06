@@ -8,16 +8,16 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/LohtihCoders">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/lohith-reddy-/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:lohith10e.vhs@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -27,7 +27,7 @@
 
 ## 🧠 About Me
 
-I'm a **B.Tech student and AI/ML developer** focused on building practical applications with:
+I'm a **B.Tech Final Year student and AI developer** focused on building practical applications with:
 
 * 🤖 **Agentic AI & AI Agents**
 * 🧠 **Multi-Agent Systems**
