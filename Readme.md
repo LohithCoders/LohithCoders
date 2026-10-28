@@ -22,27 +22,6 @@
 
 ---
 
-## 🧠 About Me
-
-I'm a **B.Tech Final Year student and AI developer** focused on building practical applications with:
-
-* 🤖 **Agentic AI & AI Agents**
-* 🧠 **Multi-Agent Systems**
-* ✨ **Generative AI & LLM Applications**
-* ⚙️ **AI Workflow Automation**
-* 🔗 **LLM Orchestration**
-* 🧩 **RAG & Prompt Engineering**
-* 🧪 **AI-powered Testing & QA Automation**
-* 🌐 **Full-Stack AI Applications**
-
-I enjoy taking an idea from **concept → architecture → implementation → automation → deployment**.
-
-My current goal is to build AI systems that don't simply generate responses, but can **reason about goals, use tools, collaborate with other agents, and take meaningful actions.**
-
-> **Traditional Software → AI-Assisted Software → AI Agents → Autonomous AI Systems**
-
----
-
 ## 🚀 What I'm Building
 
 <div align="center">
@@ -120,88 +99,6 @@ My current goal is to build AI systems that don't simply generate responses, but
 
 ---
 
-> **Intelligence → Orchestration → Action → Applications → Production**
-
----
-
-# 🌱 Currently Exploring
-
-* 🤖 Production-ready AI Agents
-* 🧠 Multi-Agent Architectures
-* 🔗 Advanced LLM Orchestration
-* ⚙️ Autonomous AI Workflows
-* 🧪 AI-powered Software Testing
-* 🌐 Full-Stack AI Products
-* 🧩 RAG & Tool-Using Agents
-* 🚀 Production AI Engineering
-
----
-
-# 🏆 Programs & Technical Initiatives
-
-* 🤖 AI Hackday 2025
-* 🔗 Mastering Multi-Agent AI
-* 🚀 IBM SkillsBuild AI Summer Internship
-* 🧩 IUCEE Multi-Agent AI Program
-* ☁️ Google Vertex AI
-* 🏗️ AI / Vibe Coding Hackathons
-
----
-
-# 👨‍💼 Leadership
-
-### ⚙️ Technical Secretary - KGRCET
-
-Supported Technical Clubs coordination, student initiatives, events, and technology-focused activities.
-
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LohithCoders&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LohithCoders&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohithCoders&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 💡 My Engineering Philosophy
-
-> **Don't just build AI that generates answers.**
->
-> **Build AI that understands a goal, reasons about it, uses tools, collaborates with other agents, and takes meaningful action.**
-
-I'm particularly interested in the transition from:
-
-**Traditional Software → AI-Assisted Software → AI Agents → Autonomous AI Systems**
-
----
-
-# 🤝 Let's Build Something
-
-I'm interested in collaborating on:
-
-- 🤖 AI Agents
-- 🧠 Multi-Agent Systems
-- ✨ Generative AI Applications
-- ⚙️ AI Automation
-- 🧪 AI-powered Testing
-- 🚀 AI Startups & Products
-- 💡 Hackathons
-- 🔬 AI Research & Experimentation
-
 <div align="center">
 
 ### 💬 If you're building something interesting with AI, let's connect.
@@ -219,17 +116,3 @@ I'm interested in collaborating on:
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ Fun Fact
-
-**I don't just want to use AI tools.**
-
-**I want to build systems where AI becomes an intelligent worker. 🤖**
-
-<br/>
-
-⭐ **If you find my work interesting, consider starring a repository and following my journey.**
-
-</div>
